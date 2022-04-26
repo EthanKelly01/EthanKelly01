@@ -56,13 +56,34 @@ My interest in tech started the summer before high school as a counselor for McM
 
 I was inspired to take Computer Science courses in grade 10, where I learned Python. Over winter break I began using PyGame, a python library for simple graphics, to craft my first *real* programming project: a basic twin stick top-down arena shooter game with different classes of enemies and attacks, an explorable overworld map with a dozen missions, and a shop to upgrade your arsenal with your spoils of war. God I wish I still had that code.<br><br>
 
-<!-- image here? -->
-In grade 11 I learned web design, and also took Computer Engineering: a course based half on hardware, and half on software. Once again, a personal project sparked my interest in code. With a small team of friends, I built a small remote control car out of plastic pieces, the old motor off another rc car, breadboards, an Arduino, Raspberry Pi, and *webcam*. Powered by Arduino, Processing, and mIRC (Microsoft Internet Relay Chat), the car could stream its POV to Twitch and accept input through the live Twitch chat. Another project I wish I still had the code to.<br><br>
+In grade 11 I learned web design, and also took Computer Engineering: a course based half on hardware, and half on software. Once again, a personal project sparked my interest in code. With a small team of friends, I built a small remote control car out of plastic pieces, the old motor off another rc car, breadboards, an Arduino, Raspberry Pi, and *webcam*. Powered by Arduino, Processing, and mIRC (Microsoft Internet Relay Chat), the car could stream its POV to Twitch and accept input through the live Twitch chat. Another project I wish I still had the code to.<br>
+<img width="48%" align="left" src="https://cdn.discordapp.com/attachments/776593335456366612/968605228465274950/0124181011a.jpg">
+<img width="48%" align="right" src="https://cdn.discordapp.com/attachments/776593335456366612/968605582900752414/0124181011_HDR.jpg">
 
-Grade 12 was focused on OOP concepts and teamwork, and once I learned OOP I could never go back. I fondly remember a project from this time where teams would compete to write AI for a competitive BattleBots style videogame in which each team consists of 4 bots with individual health, movement, and identical AIs running separately. At the end of the project, the teacher pit the teams against each other in a battle royal where the best AI team wins. Good times.<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>Grade 12 was focused on OOP concepts and teamwork, and once I learned OOP I could never go back. I fondly remember a project from this time where teams would compete to write AI for a competitive BattleBots style videogame in which each team consists of 4 bots with individual health, movement, and identical AIs running separately. At the end of the project, the teacher pit the teams against each other in a battle royal where the best AI team wins. Good times.<br><br>
 
 I came to Ontario Tech as a game development student hoping to learn game engine tech, and eventually transferred programs into computer science. I now spend most of my time working on a mountain of small side projects.
 
 ---
+#### Some projects I *do* still have the code for:
+
+
+<a href="https://github.com/1-e-x-x/systems-assignment-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1-e-x-x&repo=systems-assignment-2&theme=buefy" /></a>
+<a href="https://github.com/EthanKelly01/JavaFX-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EthanKelly01&repo=JavaFX-Game&theme=buefy" /></a>
+
+**Note: some of these involve my alternate school account, MajesticShekel**
+
+---
 
 <p align="center">"I do a little programming and a lot of trolling."</p>
+
+<!--- Unused profile assets and tools --->
+
+<!--- Alternate github stats formatting --->
+<!--- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EthanKelly01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="EthanKelly01's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanKelly01&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | --->
+
+<!-- Profile activity graph -->
+<!--- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="EthanKelly01's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=EthanKelly01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> --->
