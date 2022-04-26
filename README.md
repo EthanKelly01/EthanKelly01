@@ -50,6 +50,15 @@ struct human {
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </p>
 
+### Learning
+Having learned over 10 languages, a huge pile of tools, and more over the past 6 years, one of my biggest skills is picking up new tools. This skill allows me to adapt to new projects on the fly with minimum learning time.
+
+### Communication
+I volunteered as a camp counselor for two summers at a local STEM camp in early high school and learned how to effectively convey concepts and technical detail with others. I use these skills to peer tutor others in my program and others nearby, as well as working with others on mutual projects.
+
+### Leadership
+I've spent a lot of time leading group projects in both school and work, and have skills organizing team project development and allocating work to different members.
+
 ---
 <h1 align="center">My Story</h1>
 My interest in tech started the summer before high school as a counselor for McMaster Venture camp, teaching circuitry, soldering, and basic programming to kids.<br><br>
@@ -60,7 +69,7 @@ In grade 11 I learned web design, and also took Computer Engineering: a course b
 <img width="47%" align="left" src="https://cdn.discordapp.com/attachments/776593335456366612/968605228465274950/0124181011a.jpg">
 <img width="47%" align="right" src="https://cdn.discordapp.com/attachments/776593335456366612/968605582900752414/0124181011_HDR.jpg">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>Grade 12 was focused on OOP concepts and teamwork, and once I learned OOP I could never go back. I fondly remember a project from this time where teams would compete to write AI for a competitive BattleBots style videogame in which each team consists of 4 bots with individual health, movement, and identical AIs running separately. At the end of the project, the teacher pit the teams against each other in a battle royal where the best AI team wins. Good times.<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>Grade 12 was focused on OOP concepts and teamwork, and once I learned OOP I could never go back. I fondly remember a project from this time where teams would compete to write AI for a competitive BattleBots style videogame in which each team consists of 4 bots with individual health, movement, and identical AIs running separately. At the end of the project, the teacher pit the teams against each other in a battle royal where the best AI team wins. Good times.<br><br>
 
 I came to Ontario Tech as a game development student hoping to learn game engine tech, and eventually transferred programs into computer science. I now spend most of my time working on a mountain of small side projects.
 
