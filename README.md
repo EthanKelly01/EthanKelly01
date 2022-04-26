@@ -57,8 +57,8 @@ My interest in tech started the summer before high school as a counselor for McM
 I was inspired to take Computer Science courses in grade 10, where I learned Python. Over winter break I began using PyGame, a python library for simple graphics, to craft my first *real* programming project: a basic twin stick top-down arena shooter game with different classes of enemies and attacks, an explorable overworld map with a dozen missions, and a shop to upgrade your arsenal with your spoils of war. God I wish I still had that code.<br><br>
 
 In grade 11 I learned web design, and also took Computer Engineering: a course based half on hardware, and half on software. Once again, a personal project sparked my interest in code. With a small team of friends, I built a small remote control car out of plastic pieces, the old motor off another rc car, breadboards, an Arduino, Raspberry Pi, and *webcam*. Powered by Arduino, Processing, and mIRC (Microsoft Internet Relay Chat), the car could stream its POV to Twitch and accept input through the live Twitch chat. Another project I wish I still had the code to.<br>
-<img width="48%" align="left" src="https://cdn.discordapp.com/attachments/776593335456366612/968605228465274950/0124181011a.jpg">
-<img width="48%" align="right" src="https://cdn.discordapp.com/attachments/776593335456366612/968605582900752414/0124181011_HDR.jpg">
+<img width="47%" align="left" src="https://cdn.discordapp.com/attachments/776593335456366612/968605228465274950/0124181011a.jpg">
+<img width="47%" align="right" src="https://cdn.discordapp.com/attachments/776593335456366612/968605582900752414/0124181011_HDR.jpg">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>Grade 12 was focused on OOP concepts and teamwork, and once I learned OOP I could never go back. I fondly remember a project from this time where teams would compete to write AI for a competitive BattleBots style videogame in which each team consists of 4 bots with individual health, movement, and identical AIs running separately. At the end of the project, the teacher pit the teams against each other in a battle royal where the best AI team wins. Good times.<br><br>
 
